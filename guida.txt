@@ -1,0 +1,105 @@
+Foglietto dei canti - v1.5.0
+----------------------------
+
+Copyright (c) 2021 Ignazio Di Napoli -- vedi licenza in fondo a questo file.
+
+In seguito alla richiesta di come realizzare un "foglietto" per i canti sul 
+cellulare, ho realizzato questa pagina in modo che sia facile da modificare. 
+
+Se la usi, mandami una email a neclepsio@gmail.com e fammi sapere cosa ne
+pensi.
+
+Per personalizzare i testi è sufficiente modificare i file canti.txt e
+libreria.txt, avendo cura di non modificare la prima e l'ultima riga.
+
+Il formato è abbastanza inPlayertuitivo dagli esempi, ma aggiungo le istruzioni.
+
+Ricorda di leggere la licenza in LICENSE.txt.
+
+
+
+
+Descrizione del formato
+-----------------------
+
+Per applicare la formattazione far iniziare le righe come di seguito.
+  .    i nomi dei momenti, centrati, prima del titolo;
+  #    i titoli, centrati ed in maiuscoletto;
+  ##   riga in grassetto;
+  >    i ritornelli, in grassetto e rientrati;
+  /    i bridge, in corsivo;
+  ---  separatore di sezione;
+  ?    spiegazioni (da mettere subito prima o subito dopo il titolo);
+  %    inserisce un commento che verrà mostrato solo in modalità debug.
+
+Per ripetere la prima riga del ritornello usare ">*".
+
+Per lasciare spazio tra i paragrafi lasciate una riga vuota. 
+
+Le righe che cominciano con @, gli undescore (_) ed il testo riportato tra 
+[parentesi quadre] non verrano visualizzati. Questo permette di incollare
+i testi dei canti con accordi per alcuni programmi. 
+
+Il carettere @ può essere usato quindi per inserire commenti o per nascondere
+parti che non si voglioni cancellare.
+
+Talvolta nelle letture ci sono però parti aggiunte segnate tra parentesi 
+quadre, siccome verrebbero eliminati è necessario scriverli \[in questo modo],
+aggiungendo \ prima di [.
+
+La tilde (~) inserisce uno spazio unificatore, è utile per non far andare a 
+capo un riferimento: "Gv 1,1" potrebbe far scrivere "Gv" su un rigo e "1,1"
+a capo, mentre "Gv~1,1" tiene tutto sullo stesso rigo. Per inserire ~ usando
+Windows il modo migliore è fare il copia e incolla, con Linux usa AltGr+ì.
+
+Se viene inserita una riga con scritto {indice}, verrà sostituita con l'indice
+dei titoli, escludendo quelli che precedono la prima occorrenza.
+
+Per inserire l'immagine di una croce, usare {croce}.
+Per inserire la R per la risposta, usare {risposta}.
+Per inserire una chiave di violino, usare {musica}.
+Per inserire un collegamento con l'icona di YouTube, usare {media [indirizzo]},
+ad esempio {media https://www.youtube.com/watch?v=Qf_xvOnb-P0}. Toccando
+l'icona, per i video YouTube verrà visualizzato un riproduttore integrato, per
+gli altri link si aprirà un'altra tab o finestra.
+Le immagini ed i collegamenti nei titoli saranno rimosse nella voce dell'indice.
+
+Per inserire una qualunque immagine, copiarla nella cartella ed usare:
+  {img larghezza altezza nomefile}
+Larghezza ed altezza sono definiti come unità CSS. Per esempio:
+  {img auto 4em salmo.svg}
+Il nome del file non può contenere spazi.
+
+La punteggiatura verrà abbellita: 
+  '     diventa   ‘ o ’
+  "     diventa   “ o ”
+  <<    diventa   «
+  >>    diventa   »
+  ...   diventa   …
+  --    diventa   – (largo quanto una n)
+  ---   diventa   — (largo quanto una m)
+
+Una riga che finisce con \ verrà concatenata alla successiva aggiungendo uno
+spazio, è utile per dividere le letture su più righe non imponendo un'andata
+a capo nel risultato finale. In alternativa, i paragrafi possono essere 
+scritti tutti su una singola riga.
+
+Se preferisci, è possibile definire una libreria nel file "libreria.txt", 
+inserendo le varie sezioni. Per richiamare un elemento della libreria, usare
+"{titolo}". Il titolo definito nella riga che inizia con "#" viene ripulito
+di eventuali immagini. Per distinguere più elementi con lo stesso titolo,
+si può usare del testo tra [parentesi quadre], che verrà poi eliminato in fase
+di preparazione della pagina.
+Se vengono inseriti più elementi con lo stesso titolo, i relativi testi
+saranno accodati. 
+
+
+
+
+Modalità di debug
+-----------------
+
+Controlla sempre il risultato finale in modalità debug prima di pubblicare:
+per farlo, aggiungi "?debug" all'indirizzo nel browser. Verranno mostrate le
+righe che cominciano con % e gli elementi non presenti nella libreria saranno
+evidenziati.

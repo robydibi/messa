@@ -1,2 +1,1 @@
-# messa
-Foglietto per la messa
+﻿# Foglietto dei canti per la messa

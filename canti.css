@@ -1,0 +1,410 @@
+/* generale */
+
+body {
+    font-family: 'Lato', sans-serif;
+    padding: 16px;
+    touch-action: pan-y;
+}
+
+#ombreggiatura {
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    z-index: -1;
+    transition: background-color 200ms ease;
+}
+
+body.spiegazione-visibile #ombreggiatura {
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 100;
+}
+
+a:link {
+    color: #00e;
+}
+
+a:visited {
+    color: #00e;
+}
+
+hr {
+    margin-top: 4rem;
+    margin-bottom: 4rem;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, 
+        rgba(0, 0, 0, 0),
+        rgba(0, 0, 0, 0.75), 
+        rgba(0, 0, 0, 0));
+}
+
+
+
+/* immagini */
+
+img {
+    height: 1em;
+    position: relative;
+    margin-left: 0.3em;
+    margin-right: 0.3em;
+}
+
+img.risposta {
+    top: 0.2em;
+}
+
+img.croce {
+    top: 0.1em;
+}
+
+img.musica {
+    top: 0em;
+}
+
+img.media {
+    height: 0.55em;
+    cursor: pointer;
+    top: 0.05em;
+}
+
+
+
+/* titolo */
+
+.titolo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.titolo > span {
+    line-height: 110%;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+
+
+/* canto */
+
+.song {
+    display: inline-block;
+}
+
+p {
+    line-height: 150%;
+    margin-top: 0px;
+    margin-bottom: 1rem;
+}
+
+.momento {
+    font-size: 100%; 
+    text-align: center;
+    margin-bottom: -0.3rem;
+}
+
+a[id] {
+    position:relative;
+    top: -1em;
+}
+
+.titolo { 
+    font-weight: bold;
+    font-size: 200%; 
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.ritornello {
+    font-weight: bold;
+    margin-left: 16px;
+}
+
+.grassetto {
+    font-weight: bold;
+}
+
+.bridge {
+    font-style: italic;
+}
+
+p.debug {
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    padding: 12px;
+    border-radius: 4px;
+}
+
+
+
+/* multi colonna su desktop */
+@media screen and (min-width: 900px) and (orientation: landscape) {
+    .song:not(.lettura) {
+        display: flex;
+        flex-flow: column wrap;
+        max-height: calc(100vh - 5rem);
+        max-width: 100%;
+        column-gap: 32px;
+    }
+}
+
+
+
+/* spiegazione */
+
+.pulsante-spiegazione {
+    float: right;
+    /* l'altezza dello spazio è 3rem: (h1 font-size == 200%) * (p line-height == 150%) */
+    height: 32px;
+    width: 32px;
+    margin-top: calc((3rem - 32px) / 2);
+}
+
+.spiegazione {
+    position: absolute;
+    background-color: white;
+    z-index: 200;
+
+    font-size: 100%;
+
+    padding: 16px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    right: calc(16px + 8px + 4px);
+    left: calc(16px + 8px + 4px);
+    margin-top: 4px;
+    
+    transform: scale(0);
+    transform-origin: top right;
+}
+
+.spiegazione.animate {
+    transition: transform 200ms ease;
+}
+
+.spiegazione.visible {
+    transform: scale(1);
+}
+
+
+
+/* pulsanti zoom */
+
+#buttons {
+    position: fixed;
+    right: 16px;
+    bottom: 16px;
+}
+
+#spacer {
+    height: 48px;
+}
+
+#buttons button {
+    width: 48px;
+    height: 48px;
+    font-size: 32px;
+    padding: 0px;
+}
+
+button {
+    margin: 4px;
+    box-shadow: 0 0 8px rgb(0 0 0 / 0.2);
+    background-color: #eee;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-weight: youtubebold;
+    color: black;
+    
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* banner modalità offline */
+
+#online {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    color: white;
+    padding: 16px;
+    margin: 16px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgb(0 0 0 / 0.8);
+    transition: opacity 800ms ease;
+    background-color: rgba(0,0,0, 0.7);
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* 
+ * mostra il banner sulla modalità aereo solo
+ * sui dispositivi mobili, in modo da consentire
+ * l'uso di computer con proiettori (anche se 
+ * non è il formato ideale e sarebbe meglio preparare
+ * una presentazione a parte)
+ */
+@media screen and (max-device-width: 900px) {
+    body:not(.media-visibile) #online.online {
+        opacity: 1;
+        pointer-events: all;
+    }
+}
+
+#online > div {
+    display: table-row;
+}
+
+#online img {
+    padding: 8px;
+    font-size: 1.5em;
+}
+
+#online span {
+    margin-right: 0px;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+
+
+/* alert */
+
+#alert {
+    position: fixed;
+    z-index: 200;
+    top: 50%;
+    left: 0px;
+    right: 0px;
+    margin-left: 32px;
+    margin-right: 32px;
+    transform: translateY(-50%) scale(0);
+    transition: transform 200ms ease;
+
+    background-color: white;
+    
+    font-size: 100%;
+
+    padding: 16px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+}
+
+#alert-text {
+    margin-bottom:16px;
+} 
+
+#alert-buttons {
+    float: right;
+}
+
+#alert-buttons button {
+    padding: 8px;
+    width: 8em;
+}
+
+#alert.visibile {
+    transform: translateY(-50%) scale(1);
+}
+
+
+
+/* media */
+#media {
+    position: fixed;
+    width: 300px;
+    height: 200px;
+    bottom: -200px;
+    left: 0px;
+    right: 0px;
+    margin: 16px auto;
+    box-shadow: 0 0 16px rgba(0, 0, 0, 0.5);
+    transform: scale(0);
+    transition: transform 200ms ease, bottom 200ms ease;
+}
+
+body.media-visibile #media {
+    bottom: 32px;
+    transform: scale(1);
+}
+
+#media-chiudi {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    right: 0px;
+    top: 0px;
+    margin: 16px;
+    text-align: center;
+    color: white;
+    opacity: 0.75;
+    text-shadow: 0px 0px 2px black;
+    font-size: 32px;
+    line-height: 32px;
+    cursor: pointer;
+}
+
+#media-contenuto {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    top: 0px;
+    margin: 0px;
+}
+
+#media-sfondo {
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+    top: 0px;
+    margin: 0px;
+    background-color: white;
+    text-align: center;
+}
+
+#media-sfondo img {
+    position: relative;
+    top: 25%;
+    height: 50%;
+
+    animation-duration: 1.0s;
+    animation-name: media-sfondo-anim;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes media-sfondo-anim {
+    0% {
+        opacity: 0.5;
+    }
+    100% {
+    }
+}
+
+
+
+/* stampa */
+
+@media print {
+    hr {
+        break-after: always;
+    }
+
+    img.media {
+        display: none;
+    }
+
+    #buttons {
+        display: none;
+    }
+}
