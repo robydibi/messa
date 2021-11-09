@@ -1,10 +1,35 @@
 let canti = `
-. 7 novembre 2021
-# XXXII domenica del T.O.
+% https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20211114
 
-/Gesù contrappone qui due tipi di comportamento religioso. Il primo è quello degli scribi pretenziosi che si pavoneggiano ed usano la religione per farsi valere. Gesù riprende questo atteggiamento e lo condanna senza alcuna pietà. Il secondo comportamento è invece quello della vedova povera che, agli occhi degli uomini, compie un gesto irrisorio, ma, per lei, carico di conseguenze, in quanto si priva di ciò di cui ha assolutamente bisogno. Gesù loda questo atteggiamento e lo indica come esempio ai suoi discepoli per la sua impressionante autenticità. Non è quanto gli uomini notano che ha valore agli occhi di Dio, perché Dio non giudica dall’apparenza, ma guarda il cuore (1Sam 16,7). Gesù vuole che guardiamo in noi stessi. La salvezza non è una questione di successo, e ancor meno di parvenze. La salvezza esige che l’uomo conformi le azioni alle sue convinzioni. In tutto ciò che fa, specialmente nella sua vita religiosa, l’uomo dovrebbe sempre stare attento a non prendersi gioco di Dio. Scrive san Paolo: “Non vi fate illusioni; non ci si può prendere gioco di Dio. Ciascuno raccoglierà quello che avrà seminato” (Gal 6,7).
+. 14 novembre 2021
+# XXXIII domenica del T.O.
+. Anno B
 
-/Il Signore chiede che si abbia un cuore puro, una fede autentica, una fiducia totale. Questa donna non ha nulla. È vedova, e dunque senza appoggio e senza risorse. È povera, senza entrate e senza garanzie. Eppure dà quello che le sarebbe necessario per vivere, affidandosi a Dio per non morire. Quando la fede arriva a tal punto, il cuore di Cristo si commuove, poiché sa che Dio è amato, e amato per se stesso. L’avvenire della Chiesa, il nostro avvenire, per i quali le apparenze contano tanto, è nelle mani di questi veri credenti.
+/ Quando si chiede ad un bambino della seconda metà del ventesimo secolo che cosa \
+sia per lui la fine del mondo, risponde in termini di catastrofe e di \
+annientamento, così come suggeriscono la bomba atomica e l’inquinamento. 
+
+/ Ma quando si interroga Gesù sulla fine dei tempi, risponde in termini di pienezza e \
+di ritorno. Egli afferma con forza che il Figlio dell’uomo ritornerà; non, come \
+è già venuto, per annunciare il regno (Mc 1,15) e il tempo della misericordia \
+(Gv 3,17), ma perché tutto si compia (1Cor 15,28). Allora ognuno troverà il \
+proprio posto (1Cor 14,2-3) e otterrà la sua ricompensa in funzione delle \
+proprie opere (Mt 16,27). 
+
+/ La predicazione di Gesù è carica di questa \
+preoccupazione: aprire gli occhi agli uomini sui segni premonitori di questa \
+fine del mondo che non sarà una caduta nel nulla, ma un ingresso nella gloria. \
+Ma ciò che resta e resterà nascosto, è la data di questo istante. Questo è un \
+segreto del Padre. Egli non l’ha ancora svelato. Ecco perché la Parola (il \
+Figlio) non lo sa. Il Padre non ha ancora espresso questo pensiero, per via \
+della sua pazienza infinita e della sua bontà illimitata (2Pt 3,9). Inutile \
+insistere (At 1,6-7) e chiedere: “Perché?”. 
+
+/ Per il momento, questo non ci \
+riguarda e non è nemmeno utile per noi saperlo. La sola cosa che conta è sapere \
+che questo ritorno di Cristo ci sarà e che bisogna prepararsi ad esso, \
+altrimenti ci si ritroverà irrimediabilmente esclusi dal Regno (Mt 25,11-12; \
+Lc 13,25). 
 
 {indice}
 
@@ -21,60 +46,62 @@ let canti = `
 
 # Prima lettura
 
-/ La vedova fece con la sua farina una piccola focaccia e la portò a Elia.
+/In quel tempo sarà salvato il tuo popolo.
 
-## Dal primo libro di Re (1Re~17,~10-16)
+## Dal libro del profeta Daniele (Dn~12,~1-3)
 
-In quei giorni, il profeta Elia si alzò e andò a Sarèpta. Arrivato alla porta della città, ecco una vedova che raccoglieva legna. La chiamò e le disse: «Prendimi un po’ d’acqua in un vaso, perché io possa bere».
+In quel tempo, sorgerà Michele, il gran principe, che vigila sui figli del tuo popolo.
 
-Mentre quella andava a prenderla, le gridò: «Per favore, prendimi anche un pezzo di pane». Quella rispose: «Per la vita del Signore, tuo Dio, non ho nulla di cotto, ma solo un pugno di farina nella giara e un po’ d’olio nell’orcio; ora raccolgo due pezzi di legna, dopo andrò a prepararla per me e per mio figlio: la mangeremo e poi moriremo».
+Sarà un tempo di angoscia, come non c’era stata mai dal sorgere delle nazioni fino a quel tempo; in quel tempo sarà salvato il tuo popolo, chiunque si troverà scritto nel libro.
 
-Elia le disse: «Non temere; va’ a fare come hai detto. Prima però prepara una piccola focaccia per me e portamela; quindi ne preparerai per te e per tuo figlio, poiché così dice il Signore, Dio d’Israele: “La farina della giara non si esaurirà e l’orcio dell’olio non diminuirà fino al giorno in cui il Signore manderà la pioggia sulla faccia della terra”».
+Molti di quelli che dormono nella regione della polvere si risveglieranno: gli uni alla vita eterna e gli altri alla vergogna e per l’infamia eterna.
 
-Quella andò e fece come aveva detto Elia; poi mangiarono lei, lui e la casa di lei per diversi giorni. La farina della giara non venne meno e l’orcio dell’olio non diminuì, secondo la parola che il Signore aveva pronunciato per mezzo di Elia.
+I saggi risplenderanno come lo splendore del firmamento; coloro che avranno indotto molti alla giustizia risplenderanno come le stelle per sempre.
 
 --------------------------------------------------------------------------------
 
 # Salmo responsoriale
 
-## Sal~145
+## Sal~15
 
 @{img auto 4em salmo.svg}
 
-/ {risposta} Loda il Signore, anima mia.
+/ {risposta} Proteggimi, o Dio: in te mi rifugio.
 
-Il Signore rimane fedele per sempre
-rende giustizia agli oppressi,
-dà il pane agli affamati.
-Il Signore libera i prigionieri.
+Il Signore è mia parte di eredità e mio calice:
+nelle tue mani è la mia vita.
+Io pongo sempre davanti a me il Signore,
+sta alla mia destra, non potrò vacillare.
 
-/ {risposta} Loda il Signore, anima mia.
+/ {risposta} Proteggimi, o Dio: in te mi rifugio.
 
-Il Signore ridona la vista ai ciechi,
-il Signore rialza chi è caduto,
-il Signore ama i giusti,
-il Signore protegge i forestieri.
+Per questo gioisce il mio cuore
+ed esulta la mia anima;
+anche il mio corpo riposa al sicuro,
+perché non abbandonerai la mia vita negli inferi,
+né lascerai che il tuo fedele veda la fossa.
 
-/ {risposta} Loda il Signore, anima mia.
+/ {risposta} Proteggimi, o Dio: in te mi rifugio.
 
-Egli sostiene l’orfano e la vedova,
-ma sconvolge le vie dei malvagi.
-Il Signore regna per sempre,
-il tuo Dio, o Sion, di generazione in generazione.
+Mi indicherai il sentiero della vita,
+gioia piena alla tua presenza,
+dolcezza senza fine alla tua destra. 
 
-/ {risposta} Loda il Signore, anima mia.
+/ {risposta} Proteggimi, o Dio: in te mi rifugio.
 
 --------------------------------------------------------------------------------
 
 # Seconda lettura
 
-/ Cristo si è offerto una volta per tutte per togliere i peccati di molti.
+/ Cristo con un’unica offerta ha reso perfetti per sempre quelli che vengono santificati.
 
-## Dalla lettera agli Ebrei (Eb~9,~24-28)
+## Dalla lettera agli Ebrei (Eb~10,~11-14.18)
 
-Cristo non è entrato in un santuario fatto da mani d’uomo, figura di quello vero, ma nel cielo stesso, per comparire ora al cospetto di Dio in nostro favore. E non deve offrire se stesso più volte, come il sommo sacerdote che entra nel santuario ogni anno con sangue altrui: in questo caso egli, fin dalla fondazione del mondo, avrebbe dovuto soffrire molte volte.
+Ogni sacerdote si presenta giorno per giorno a celebrare il culto e a offrire molte volte gli stessi sacrifici, che non possono mai eliminare i peccati.
 
-Invece ora, una volta sola, nella pienezza dei tempi, egli è apparso per annullare il peccato mediante il sacrificio di se stesso. E come per gli uomini è stabilito che muoiano una sola volta, dopo di che viene il giudizio, così Cristo, dopo essersi offerto una sola volta per togliere il peccato di molti, apparirà una seconda volta, senza alcuna relazione con il peccato, a coloro che l’aspettano per la loro salvezza.
+Cristo, invece, avendo offerto un solo sacrificio per i peccati, si è assiso per sempre alla destra di Dio, aspettando ormai che i suoi nemici vengano posti a sgabello dei suoi piedi. Infatti, con un’unica offerta egli ha reso perfetti per sempre quelli che vengono santificati.
+
+Ora, dove c’è il perdono di queste cose, non c’è più offerta per il peccato.
 
 --------------------------------------------------------------------------------
 
@@ -91,15 +118,21 @@ perché di essi è il regno dei cieli. (Mt~5,~3)
 
 # Vangelo
 
-/ Questa vedova, nella sua povertà, ha dato tutto quello che aveva.
+/ Il Figlio dell'uomo radunerà i suoi eletti dai quattro venti.
 
-## {croce} Dal Vangelo secondo Marco (Mc~12,~38-44)
+## {croce} Dal Vangelo secondo Marco (Mc~13,~24-32)
 
-In quel tempo, Gesù \[nel tempio] diceva alla folla nel suo insegnamento: «Guardatevi dagli scribi, che amano passeggiare in lunghe vesti, ricevere saluti nelle piazze, avere i primi seggi nelle sinagoghe e i primi posti nei banchetti. Divorano le case delle vedove e pregano a lungo per farsi vedere. Essi riceveranno una condanna più severa».
+In quel tempo, Gesù disse ai suoi discepoli:
 
-Seduto di fronte al tesoro, osservava come la folla vi gettava monete. Tanti ricchi ne gettavano molte. Ma, venuta una vedova povera, vi gettò due monetine, che fanno un soldo.
+«In quei giorni, dopo quella tribolazione, il sole si oscurerà, la luna non darà più la sua luce, le stelle cadranno dal cielo e le potenze che sono nei cieli saranno sconvolte.
 
-Allora, chiamati a sé i suoi discepoli, disse loro: «In verità io vi dico: questa vedova, così povera, ha gettato nel tesoro più di tutti gli altri. Tutti infatti hanno gettato parte del loro superfluo. Lei invece, nella sua miseria, vi ha gettato tutto quello che aveva, tutto quanto aveva per vivere».
+Allora vedranno il Figlio dell’uomo venire sulle nubi con grande potenza e gloria. Egli manderà gli angeli e radunerà i suoi eletti dai quattro venti, dall’estremità della terra fino all’estremità del cielo.
+
+Dalla pianta di fico imparate la parabola: quando ormai il suo ramo diventa tenero e spuntano le foglie, sapete che l’estate è vicina. Così anche voi: quando vedrete accadere queste cose, sappiate che egli è vicino, è alle porte.
+
+In verità io vi dico: non passerà questa generazione prima che tutto questo avvenga. Il cielo e la terra passeranno, ma le mie parole non passeranno.
+
+Quanto però a quel giorno o a quell’ora, nessuno lo sa, né gli angeli nel cielo né il Figlio, eccetto il Padre».
 
 --------------------------------------------------------------------------------
 

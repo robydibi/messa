@@ -109,6 +109,9 @@ function parseSource(text) {
         // gestione stili
         let klass = "";
         let sezione = "";
+        if (!line.startsWith("#")) {
+            ultimoMomento = "";
+        }
         if (line.startsWith("?")) {
             klass = "spiegazione";
             sezione = "header";
@@ -133,7 +136,6 @@ function parseSource(text) {
             titolo = titolo.replace(/\{.*?\}/g, "");
             titolo = titolo.replace(/~/g, " ");
             indice += "<a href='#titolo" + n.toString() + "'>" + titolo + "</a><br>\n";
-            ultimoMomento = "";
             if (n == 0) {
                 document.title = titolo;
             }

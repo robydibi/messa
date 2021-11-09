@@ -105,6 +105,11 @@ p {
     margin-bottom: -0.3rem;
 }
 
+.titolo ~ .momento {
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+}
+
 a[id] {
     position:relative;
     top: -1em;
