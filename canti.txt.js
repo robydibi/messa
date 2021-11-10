@@ -5,6 +5,8 @@ let canti = `
 # XXXIII domenica del T.O.
 . Anno B
 
+{img auto 20em uno.png}
+
 / Quando si chiede ad un bambino della seconda metà del ventesimo secolo che cosa \
 sia per lui la fine del mondo, risponde in termini di catastrofe e di \
 annientamento, così come suggeriscono la bomba atomica e l’inquinamento. 
@@ -51,12 +53,11 @@ Lc 13,25).
 ## Dal libro del profeta Daniele (Dn~12,~1-3)
 
 In quel tempo, sorgerà Michele, il gran principe, che vigila sui figli del tuo popolo.
-
 Sarà un tempo di angoscia, come non c’era stata mai dal sorgere delle nazioni fino a quel tempo; in quel tempo sarà salvato il tuo popolo, chiunque si troverà scritto nel libro.
-
 Molti di quelli che dormono nella regione della polvere si risveglieranno: gli uni alla vita eterna e gli altri alla vergogna e per l’infamia eterna.
-
 I saggi risplenderanno come lo splendore del firmamento; coloro che avranno indotto molti alla giustizia risplenderanno come le stelle per sempre.
+
+## Parola di Dio.
 
 --------------------------------------------------------------------------------
 
@@ -98,18 +99,19 @@ dolcezza senza fine alla tua destra.
 ## Dalla lettera agli Ebrei (Eb~10,~11-14.18)
 
 Ogni sacerdote si presenta giorno per giorno a celebrare il culto e a offrire molte volte gli stessi sacrifici, che non possono mai eliminare i peccati.
-
 Cristo, invece, avendo offerto un solo sacrificio per i peccati, si è assiso per sempre alla destra di Dio, aspettando ormai che i suoi nemici vengano posti a sgabello dei suoi piedi. Infatti, con un’unica offerta egli ha reso perfetti per sempre quelli che vengono santificati.
-
 Ora, dove c’è il perdono di queste cose, non c’è più offerta per il peccato.
+
+## Parola di Dio.
 
 --------------------------------------------------------------------------------
 
 . Acclamazione al Vangelo
 {alleluia verbum panis}
 
-Beati i poveri in spirito,
-perché di essi è il regno dei cieli. (Mt~5,~3)
+Vegliate in ogni momento pregando,
+perché abbiate la forza di comparire
+davanti al Figlio dell'uomo. (Lc 21,36)
 
 ## Alleluia, alleluia
 ## Alleluia, alleluia. (2 volte) 
@@ -123,18 +125,34 @@ perché di essi è il regno dei cieli. (Mt~5,~3)
 ## {croce} Dal Vangelo secondo Marco (Mc~13,~24-32)
 
 In quel tempo, Gesù disse ai suoi discepoli:
-
 «In quei giorni, dopo quella tribolazione, il sole si oscurerà, la luna non darà più la sua luce, le stelle cadranno dal cielo e le potenze che sono nei cieli saranno sconvolte.
-
 Allora vedranno il Figlio dell’uomo venire sulle nubi con grande potenza e gloria. Egli manderà gli angeli e radunerà i suoi eletti dai quattro venti, dall’estremità della terra fino all’estremità del cielo.
-
 Dalla pianta di fico imparate la parabola: quando ormai il suo ramo diventa tenero e spuntano le foglie, sapete che l’estate è vicina. Così anche voi: quando vedrete accadere queste cose, sappiate che egli è vicino, è alle porte.
-
 In verità io vi dico: non passerà questa generazione prima che tutto questo avvenga. Il cielo e la terra passeranno, ma le mie parole non passeranno.
-
 Quanto però a quel giorno o a quell’ora, nessuno lo sa, né gli angeli nel cielo né il Figlio, eccetto il Padre».
 
+## Parola del Signore.
+
 --------------------------------------------------------------------------------
+
+# Preghiera dei fedeli
+
+## {risposta} Dio di misericordia, ascoltaci.
+
+1. Perché la speranza cristiana ci porti a confidare non nelle cose terrene e nel frutto delle nostre azioni ma nel Signore della Vita, del Tempo e dell'Eternità.
+Noi ti preghiamo.
+## {risposta} Dio di misericordia, ascoltaci.
+
+2. Perché la Chiesa e i suoi ministri ci accompagnino a vivere le vicende terrene con cuore aperto e generoso, come chi attende solo da Dio il giusto compimento della propria vita. Noi ti preghiamo. 
+## {risposta} Dio di misericordia, ascoltaci.
+
+3. Perché nelle leggi degli Stati, nelle imprese di lavoro, nelle trattative economiche, non prevalgano l'egoismo e lo sfruttamento, ma si rispetti o i diritti dei popoli e i bisogni delle persone e delle famiglie. Noi ti preghiamo.  
+## {risposta} Dio di misericordia, ascoltaci.
+
+4. Perché nelle vicende della vita prevalga, in ogni di noi, la fiducia nella Provvidenza e con essa la serenità e la condivisione con i fratelli. Noi ti preghiamo. 
+## {risposta} Dio di misericordia, ascoltaci.
+--------------------------------------------------------------------------------
+
 
 . Offertorio
 {benedici o signore} 
@@ -161,7 +179,7 @@ Quanto però a quel giorno o a quell’ora, nessuno lo sa, né gli angeli nel ci
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{rimani con me}
+{resta accanto a me}
 
 --------------------------------------------------------------------------------
 

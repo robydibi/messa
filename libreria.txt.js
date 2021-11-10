@@ -1,23 +1,6 @@
 let libreria = `
-#{musica} Apri i miei occhi {media https://www.youtube.com/watch?v=Qf_xvOnb-P0}
 
->Apri i miei occhi Signore,
->aprimi gli occhi del cuor:
->voglio vederti, voglio vederti! (2 volte)
-Vederti splendere, Signor,
-nella luce della Tua gloria.
-Ricolmi del Tuo amor
-cantiamo: "Santo, Santo, Santo".
-
-Santo, Santo, Santo! Santo, Santo, Santo!
-Santo, Santo, Santo, voglio vederti! (2 volte)
-
->Apri i miei occhi Signore, (Santo, Santo, Santo!)
->aprimi gli occhi del cuor: (Santo, Santo, Santo!)
->voglio vederti, (Santo, Santo, Santo!)
->voglio vederti! (2 volte)
-
-#{musica} Dall'aurora al tramonto
+#{musica} Dall'aurora al tramonto {media https://www.youtube.com/watch?v=0M8ntXzrDTg}
 >Dall'aurora io cerco te,
 >fino al tramonto ti chiamo
 >ha sete solo di te
@@ -28,6 +11,12 @@ sempre canterò la tua lode
 perché sei il mio Dio, il mio riparo
 mi proteggerai all'ombra delle tue ali.
 
+>Dall'aurora io cerco te,
+>fino al tramonto ti chiamo
+>ha sete solo di te
+>l'anima mia come terra deserta,
+>ha sete solo di te
+>l'anima mia come terra deserta
 
 #{musica} Kyrie Eleison {media https://www.youtube.com/watch?v=bBIIFzQWXjk}
 
@@ -85,7 +74,7 @@ Signore Dio, gloria!
 Re del cielo, gloria!
 Dio Padre, Dio onnipotente, gloria!
 
->Gloria, gloria a Dio...
+>*
 
 Signore, Figlio unigenito, Gesù Cristo,
 Signore, Agnello di Dio, Figlio del Padre.
@@ -96,14 +85,14 @@ accogli la nostra supplica;
 tu che siedi alla destra del Padre,
 abbi pietà di noi.
 
->Gloria, gloria a Dio...
+>*
 
 Perché, tu solo, il Santo il Signore,
 tu solo l’Altissimo, Cristo Gesù
 con lo Spirito Santo nella gloria
 del Padre.
 
->Gloria, gloria a Dio...
+>*.
 
 #{musica} Santo (Come Fuoco Vivo) {media https://www.youtube.com/watch?v=Hh4PX1BnyJY}
 
@@ -131,53 +120,6 @@ Osanna nell'alto dei cieli.
 
 >Santo, Santo,
 >Santo.
-
-#{musica} Uno spirito nuovo
-
-Ringrazio te Signore per questo immenso amore,
-solo in te io rivivrò.
-Concludi un'alleanza, rinnova questo cuor,
-e camminerò con te nella fedeltà.
-
->Metti in me uno spirito nuovo,
->con acqua viva mi purificherai.
->Poni in me la tua legge Signore,
->sul mio cuore la scriverai.
-
-
-
-#{musica} Il nostro cuore offriamo~a~te {media https://www.youtube.com/watch?v=DJhhcQ5LGWY}
-
-Con il pane e con il vino
-noi ti offriamo la vita,
-dalle mani del tuo servo
-prendi, o Padre, il nostro dono.
-
->Il nostro cuore offriamo a te,
->su questo altare lo presentiamo,
->il nostro cuore è pieno di te,
->su questo altare lo accoglierai.
-
-Della terra portiamo il frutto
-che tu accogli, Signore,
-una mensa per noi prepari,
-segno eterno del tuo amore.
-
->Il nostro cuore offriamo a te...
-
-Con i santi a te veniamo
-Rendici uno o Signore
-Benedici i tuoi figli
-qui riuniti nel tuo nome
-
->Il nostro cuore offriamo a te...
-
-/Veniamo a te con voci di lode,
-/il tuo amore ci trasformerà,
-/offriamo a te il cuore, la vita.
-
->Il nostro cuore offriamo a te...
-
 
 
 #{musica} Santo [Gen Verde]
@@ -209,6 +151,42 @@ Osanna, osanna nell'alto dei cieli.
 
 
 
+#{musica} Perché tu sei con me {media https://www.youtube.com/watch?v=Q1Xw3_luJW4}
+
+>Solo tu sei il mio pastore,
+>niente mai mi mancherà,
+>solo tu sei il mio pastore,
+>o Signore.
+
+Mi conduci dietro te, sulle verdi alture
+ai ruscelli tranquilli, lassù
+dov’è più limpida l’acqua per me,
+dove mi fai riposare.
+
+>*
+
+Anche fra le tenebre d’un abisso oscuro
+io non temo alcun male perché
+tu mi sostieni, sei sempre con me,
+rendi il sentiero sicuro.
+/(intermezzo strumentale…)
+
+>*
+
+Siedo alla tua tavola che mi hai preparato
+ed il calice è colmo per me
+di quella linfa di felicità
+che per amore hai versato.
+
+>*
+
+Sempre mi accompagnano lungo estati e inverni
+la tua grazia, la tua fedeltà
+nella tua casa io abiterò
+fino alla fine dei giorni.
+
+>*
+
 #{musica} Con~questo~pane, con~questo~vino {media https://www.youtube.com/watch?v=lDs1qm3nJyE}
 
 In questo pane noi riceviamo il vero corpo
@@ -226,6 +204,32 @@ Su questa mensa noi celebriamo il sacrificio
 del Redentore che ci consacra nel suo amore.
 >Con questo pane...
 
+#{musica} Resta accanto a me {media https://www.youtube.com/watch?v=E2NcWrcB5wg}
+
+>Ora vado sulla mia strada
+>con l'amore tuo che mi guida
+>O Signore, ovunque io vada
+>resta accanto a me
+>Io ti prego, stammi vicino
+>ogni passo del mio cammino
+>ogni notte, ogni mattino
+>resta accanto a me
+
+Il tuo sguardo puro sia luce per me
+e la tua parola sia voce per me.
+Che io trovi il senso del mio andare
+solo in te,
+nel tuo fedele amare il mio perché
+
+>*
+
+Fa' che chi mi guarda non veda che te
+fa' che chi mi ascolta non senta che te
+e chi pensa a me, fa' che nel cuore
+pensi a te
+e trovi quell'amore che hai dato a me.
+
+>*
 
 
 #{musica} Parla al mio cuore
@@ -279,82 +283,6 @@ misericordia infinita, riversata in me, in me.
 Parla al mio cuore Gesù, io ti ascolto.
 
 
-
-#{musica} Ascolta la nostra lode
-
-Danzeremo nel tuo nome, 
-per le strade esulteremo,
-costruiremo la tua pace, 
-che ogni uomo invochi Dio.
->Là nei cieli e sulla terra
->questo canto giungerà,
->là sui monti e per le valli
->questa lode correrà.
-Splenderemo nella fede
-camminando insieme o te,
-dalla Croce che ci guida
-la tua gloria brillerà.
->Là nei cieli e sulla terra...
-
-Alleluia, alleluia, alleluia, alleluia. (6 volte)
->Là nei cieli e sulla terra...
-
-
-
-#{musica} Ad una voce
-
-Con un cuore solo, 
-figli dello stesso Padre, 
-vogliamo vivere Signore.
-Con un cuore solo, 
-figli dello stesso Padre, 
-per adorare Te.
->A Te gridiamo Abbà, rendici uno in Te,
->con il Tuo Santo Spirito. 
->A Te gridiamo Abbà, rendici uno in Te, 
->con il Tuo Santo Spirito. 
->Canteremo a Te ad una voce.
-Nel Tuo nome Padre
-facci segno del Tuo amore
-perché il mondo creda in Te.
-Nel Tuo nome Padre
-facci segno del Tuo amore
-per annunciare Te.
->A Te gridiamo Abbà...
-Con un cuore solo, 
-figli dello stesso Padre, 
-per adorare Te.
->A Te gridiamo Abbà...
-Con un cuore solo, con un cuore solo,
-con un cuore solo,
-con un cuore solo, con un cuore solo.
-
-
-
-#{musica} Benedetto tu Signore
-
->Benedetto tu, Signore.
->Benedetto tu nei secoli.
->Benedetto tu, Signore.
-
-Prendi da queste mani il pane che offriamo a te,
-fanne cibo che porterà la vita tua.
->Benedetto tu, Signore...
-Prendi da queste mani il vino che offriamo a te,
-fanne linfa che porterà l’eternità.
-
->Queste nostre offerte, accoglile, Signore,
->e saranno offerte pure.
->Questo nostro mondo accogli, o Signore,
->e saranno cieli e terre che tu farai nuovi.
-
->Benedetto tu, Signore...
-
-Prendi da queste mani il cuore che offriamo a te,
-fanne dono che porterà la vita tua.
-
-
-
 #{musica} Lode al nome tuo {media https://www.youtube.com/watch?v=fsdt3_akU_0}
 
 Lode al nome tuo, dalle terre più floride,
@@ -379,7 +307,6 @@ e quando scenderà la notte sempre io dirò:
 
 >Tu doni e porti via, tu doni e porti via,
 >ma sempre sceglierò di benedire te. (2 volte)
-
 
 
 #{musica} Tu sei santo, tu~sei~re {media https://www.youtube.com/watch?v=-EtAY6ADJzo}
@@ -408,55 +335,6 @@ e ricevo il tuo perdono
 la dolcezza del tuo amor,
 tu non mi abbandoni mai, Gesù.
 >*
-
-#{musica} Perché tu sei con me {media https://www.youtube.com/watch?v=Q1Xw3_luJW4}
-
->Solo tu sei il mio pastore,
->niente mai mi mancherà,
->solo tu sei il mio pastore,
->o Signore.
-
-Mi conduci dietro te, sulle verdi alture
-ai ruscelli tranquilli, lassù
-dov’è più limpida l’acqua per me,
-dove mi fai riposare.
-
->Solo tu sei il mio pastore,
->niente mai mi mancherà,
->solo tu sei il mio pastore,
->o Signore.
-
-Anche fra le tenebre d’un abisso oscuro
-io non temo alcun male perché
-tu mi sostieni, sei sempre con me,
-rendi il sentiero sicuro.
-(intermezzo strumentale…)
-
->Solo tu sei il mio pastore,
->niente mai mi mancherà,
->solo tu sei il mio pastore,
->o Signore.
-
-Siedo alla tua tavola che mi hai preparato
-ed il calice è colmo per me
-di quella linfa di felicità
-che per amore hai versato.
-
->Solo tu sei il mio pastore,
->niente mai mi mancherà,
->solo tu sei il mio pastore,
->o Signore.
-
-Sempre mi accompagnano lungo estati e inverni
-la tua grazia, la tua fedeltà
-nella tua casa io abiterò
-fino alla fine dei giorni.
-
->Solo tu sei il mio pastore,
->niente mai mi mancherà,
->solo tu sei il mio pastore,
->o Signore.
-
 
 #{musica} Agnello di Dio {media https://www.youtube.com/watch?v=AsWs0tlzQNI}
 
@@ -531,44 +409,27 @@ Gesù parola viva e vera,
 sorgente che disseta e cura ogni ferita,
 ferma su di me i tuoi occhi,
 la tua mano stendi e donami la vita.
+
 >Abbracciami Dio dell’eternità,
 >rifugio dell'anima,
 >grazia che opera,
 >riscaldami fuoco che libera,
 >manda il tuo Spirito
->maranatha Gesù.
+>Maranatha Gesù.
+
 Gesù asciuga il nostro pianto,
 leone vincitore della tribù di Giuda,
 vieni nella tua potenza,
 questo cuore sciogli con ogni sua paura.
+
 >*
+
 Per sempre io canterò la tua immensa fedeltà,
 il tuo Spirito in me in eterno ti loderà.
 Per sempre io canterò la tua immensa fedeltà,
 il tuo Spirito in me in eterno ti loderà.
+
 >*
-
-
-
-#{musica} Lodate il Signore
-
-Lodate il Signore dei cieli. Lodate angeli suoi.
-Lodate voi tutte sue schiere la sua maestà.
-Lodate da tutta la terra. Lodate popoli suoi.
-Lodate giovani e vecchi la sua bontà.
->Cantate al Signore un cantico nuovo,
->sia onore al re,
->sia gloria a Dio che siede sul trono.
->Risuoni la lode, la benedizione al Signor
->che era e che è che sempre sarà.
->Alleluia, alleluia.
-Gioiscano nel creatore. Esultino i figli di Sion.
-Danzino facciano festa al loro Dio.
-Lodino il nome del Padre.
-Con timpani inneggino a lui.
-Cieli e terra si prostrino al re dei re.
->*
-
 
 
 #{musica} Santo [Bonfitto] {media https://www.youtube.com/watch?v=4KPeGWzGx6A}
@@ -581,126 +442,6 @@ sono pieni della tua gloria.
 >nell'alto dei cieli.
 Benedetto colui che viene
 nel nome del Signore.
->*
-
-
-
-#{musica} Alla tua presenza {media https://www.youtube.com/watch?v=WzH7HFzAflk}
-
-_Alla tua presenza portaci Signor,
-nei tuoi atri noi vogliamo dimorare.
-_Nel tuo tempio intoneremo inni a te,
-_canti di lode alla tua maestà
-
-_Il tuo Santo Spirito ci guidi là dove sei tu,
-_alla tua presenza Signore Gesù.
-_In eterno canteremo gloria a te, Signor.
-_Alla tua presenza,
-_alla tua presenza,
-per sempre insieme a te
-_Gesù.____
-
-
-#{musica} Voglio vedere il tuo volto
-
-La mia preghiera voglio innalzare a te che sei il mio Signor,
-tu tanto atteso da tutte le genti ora sei qui in mezzo a noi.
->Nel tuo santo tempio
->innalzo le mie mani verso te Gesù,
->apri i miei occhi, Signore.
->Nel tuo santo tempio
->innalzo le mie mani verso te Gesù,
->apri i miei occhi, Signore,
->voglio vedere il tuo volto.
-Guida i miei passi con la tua luce, voglio seguirti Signor,
-tocca il mio cuore e le mie labbra per annunciare il tuo amor.
->*
-
-
-
-#{musica} Ora i miei occhi ti vedono
-
-Sento in me la tua presenza,
-il tuo grande amore che mi consola, 
-il male più non mi colpirà, adesso che tu vivi in me. 
->Ora i miei occhi ti vedono
->e la mia bocca proclama
->che tu sei il Signore, il salvatore.
->Ora i miei occhi ti vedono
->e la mia bocca innalza
->un canto di lode a te,
->che sei il mio re, il mio Signore.
-Sento in me la tua presenza,
-la tua immensa grazia che mi da forza.
-Suo tuoi sentieri camminerò, adesso che tu vivi in me.
->*
-
-
-
-#{musica} Shêmá Israel {media https://www.youtube.com/watch?v=Woz9FXApoLk}
-
-Shêmá Israel Adonai elohenu, Adonai ehad.
-Shêmá Israel Adonai elohenu, Adonai ehad.
-Shêmá Israel Adonai elohenu, Adonai ehad.
-Shêmá Israel Adonai elohenu, Adonai ehad.
-
-Ascolta Israele il Signore è nostro Dio, uno è il Signor.
-Ascolta Israele il Signore è nostro Dio, uno è il Signor.
-Ascolta Israele il Signore è nostro Dio, uno è il Signor.
-Ascolta Israele il Signore è nostro Dio, uno è il Signor.
-
-
-
-#{musica} Io ti amo {media https://www.youtube.com/watch?v=XPrvaRfWLz4}
-
-_Mh, mh, mh, _mh.
-_Io ti amo, io ti amo, amo te, Signor.
-
-Signore tu mi scruti e mi conosci,
-intendi da lontano i miei pensieri,
-proteggi sempre il mio cammino e il mio riposo,
-tu sei il mio Signor.
-
->Io ti amo, io ti amo, amo te, Signor.
->Io ti amo, io ti amo, amo te, Signor.
-
-_Mh, mh, mh, _mh.
-
-
-Sei tu che mi hai creato nel segreto,
-nel seno di mia madre mi hai formato,
-adesso vedo che tu hai fatto di me un prodigio,
-tu sei il mio Signor.
-
->*
-
-/Tu leggi nel mio cuore, sai cosa c'è,
-/conosci la mia vita, sai tutto di me.
-/Tu leggi nel mio cuore, sai cosa c'è,
-/affido la mia vita a te.
-
->*
->Amo te.
-
-
-
-#{musica} Nelle tue mani {media https://www.youtube.com/watch?v=Zo6CuMpR_c8}
-
-_Nelle tue mani affido la vita,
-_Dio, mia salvezza sei tu.
-_volgi lo sguardo al mio cuore,
-con Te al sicuro sarò.
->Padre del cielo, per il tuo nome vivrò;
->un sacrificio con la mia lode io ti offrirò
->per tutto ciò che sempre mi dai.
->Padre del cielo, per il tuo nome vivrò,
->scruta il mio cuore e la mia lode io ti offrirò,
->per tutto ciò che sempre mi donerai
->o Dio di ogni bontà.
-Nelle tue mani è la mia vita,
-Dio, mia speranza sei tu,
-Donami pace, o Signore,
-con te al sicuro vivrò.
 >*
 
 
@@ -733,61 +474,6 @@ con te fra noi il deserto fiorirà.
 >*
 
 
-
 #{musica} Alleluia (passeranno i cieli) {media https://www.youtube.com/watch?v=Gm7yWtC3AB0}
 
-
-
-#{musica} Le beatitudini {media https://www.youtube.com/watch?v=SNNglMPpkVI}
-
-Beati i poveri in spirito, di essi è il regno dei cieli.
-Beati gli afflitti, perché saranno consolati.
-Beati i miti perché erediteranno la terra.
-Beati quelli che han fame e sete della giustizia
-perché saranno saziati,
-beati.
-
-Beati i misericordiosi, troveranno misericordia.
-Beati i puri di cuore, perché vedranno Dio.
-Beati i costruttori di pace, saran chiamati figli di Dio.
-Beati i perseguitati a causa della giustizia
-di essi è il regno dei cieli,
-beati.
-
-Rallegratevi ed esultate
-perché grande è la vostra ricompensa
-nei cieli,
-nei cieli.
-Beati,
-beati.
-
-
-
-#{musica} Resta qui con noi, si fa sera {media https://www.youtube.com/watch?v=rHpTEnrxoOk}
-
-Resta qui con noi,
-Signore, la notte si avvicina, 
-resta qui con noi,
-avanza il buio ed il timore insidia il cuore.
-Resta qui con noi
-e dividi questo pane
-così in noi vivrai,
-la via ci mostrerai,
-resta con noi, si fa sera.
-
-Resta qui con noi,
-Signore, la notte si avvicina,
-resta qui con noi,
-avanza il buio ed il timore insidia il cuore.
-Resta qui con noi
-e dacci questo vino
-cosi in noi vivrai,
-la via ci mostrerai,
-resta con noi, si fa sera.
-
-Apri i nostri occhi
-e ti riconosceremo
-così in noi vivrai,
-la via ci mostrerai,
-resta con noi, si fa sera.
 `
