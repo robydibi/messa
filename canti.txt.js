@@ -61,11 +61,11 @@ I saggi risplenderanno come lo splendore del firmamento; coloro che avranno indo
 
 --------------------------------------------------------------------------------
 
-# Salmo responsoriale
+# Salmo responsoriale {media https://www.youtube.com/watch?v=9Xfs87LpWvY}
 
 ## Sal~15
 
-@{img auto 4em salmo.svg}
+{img auto 6em salmo.svg}
 
 / {risposta} Proteggimi, o Dio: in te mi rifugio.
 
