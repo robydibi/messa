@@ -1,44 +1,45 @@
 let canti = `
 % https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20211114
 
-. 14 novembre 2021
-# XXXIII domenica del T.O.
+. 21 novembre 2021
+# Nostro Signore Gesù Cristo Re dell'universo
 . Anno B
 
 {img auto 20em uno.png}
 
-/ Quando si chiede ad un bambino della seconda metà del ventesimo secolo che cosa \
-sia per lui la fine del mondo, risponde in termini di catastrofe e di \
-annientamento, così come suggeriscono la bomba atomica e l’inquinamento. 
+/ Per festeggiare Cristo, re dell’universo, la Chiesa non ci propone il \
+racconto di una teofania splendente. Ma, al contrario, questa scena straziante \
+della passione secondo san Giovanni, in cui Gesù umiliato e in catene compare \
+davanti a Pilato, onnipotente rappresentante di un impero onnipotente. 
 
-/ Ma quando si interroga Gesù sulla fine dei tempi, risponde in termini di pienezza e \
-di ritorno. Egli afferma con forza che il Figlio dell’uomo ritornerà; non, come \
-è già venuto, per annunciare il regno (Mc 1,15) e il tempo della misericordia \
-(Gv 3,17), ma perché tutto si compia (1Cor 15,28). Allora ognuno troverà il \
-proprio posto (1Cor 14,2-3) e otterrà la sua ricompensa in funzione delle \
-proprie opere (Mt 16,27). 
+/ Scena straziante in cui l’accusato senza avvocato è a due giorni dal \
+risuscitare nella gloria, e in cui il potente del momento è a due passi dallo \
+sprofondare nell’oblio. 
 
-/ La predicazione di Gesù è carica di questa \
-preoccupazione: aprire gli occhi agli uomini sui segni premonitori di questa \
-fine del mondo che non sarà una caduta nel nulla, ma un ingresso nella gloria. \
-Ma ciò che resta e resterà nascosto, è la data di questo istante. Questo è un \
-segreto del Padre. Egli non l’ha ancora svelato. Ecco perché la Parola (il \
-Figlio) non lo sa. Il Padre non ha ancora espresso questo pensiero, per via \
-della sua pazienza infinita e della sua bontà illimitata (2Pt 3,9). Inutile \
-insistere (At 1,6-7) e chiedere: “Perché?”. 
+/ Chi dei due è re? Quale dei due può rivendicare un potere reale (Gv 19,11)? \
+Ancora una volta, secondo il modo di vedere umano, non si poteva che sbagliarsi. \
+Ma poco importa. I giochi sono fatti. Ciò che conta è il dialogo di questi due \
+uomini. Pilato non capisce niente, né dei Giudei, né di Gesù (Gv 18,35), né del \
+senso profondo del dibattito (Gv 18,38). 
 
-/ Per il momento, questo non ci \
-riguarda e non è nemmeno utile per noi saperlo. La sola cosa che conta è sapere \
-che questo ritorno di Cristo ci sarà e che bisogna prepararsi ad esso, \
-altrimenti ci si ritroverà irrimediabilmente esclusi dal Regno (Mt 25,11-12; \
-Lc 13,25). 
+/Quanto a Gesù, una sola cosa conta, ed è la verità (Gv 18,37). \
+Durante tutta la sua vita ha servito la verità, ha reso testimonianza alla \
+verità. La verità sul Padre, la verità sulla vita eterna, la verità sulla \
+lotta che l’uomo deve condurre in questo mondo, la verità sulla vita e sulla \
+morte. Tutti campi essenziali, in cui la menzogna e l’errore sono mortali. 
+
+/ Ecco cos’è essere re dell’universo: entrare nella verità e renderle \
+testimonianza (Gv 8,44-45). Tutti i discepoli di Gesù sono chiamati a \
+condividere la sua regalità, se “ascoltano la sua voce” (Gv 18,37). 
+
+/ È veramente re colui che la verità ha reso libero (Gv 8,32).
 
 {indice}
 
 --------------------------------------------------------------------------------
 
 . Ingresso
-{dall'aurora al tramonto}
+{chiamati per nome}
 
 --------------------------------------------------------------------------------
 
@@ -48,59 +49,66 @@ Lc 13,25).
 
 # Prima lettura
 
-/In quel tempo sarà salvato il tuo popolo.
+/ Il suo potere è un potere eterno.
 
-## Dal libro del profeta Daniele (Dn~12,~1-3)
-
-In quel tempo, sorgerà Michele, il gran principe, che vigila sui figli del tuo popolo.
-Sarà un tempo di angoscia, come non c’era stata mai dal sorgere delle nazioni fino a quel tempo; in quel tempo sarà salvato il tuo popolo, chiunque si troverà scritto nel libro.
-Molti di quelli che dormono nella regione della polvere si risveglieranno: gli uni alla vita eterna e gli altri alla vergogna e per l’infamia eterna.
-I saggi risplenderanno come lo splendore del firmamento; coloro che avranno indotto molti alla giustizia risplenderanno come le stelle per sempre.
+## Dal libro del profeta Daniele (Dn~7,~13-14)
+ 
+Guardando nelle visioni notturne,
+ecco venire con le nubi del cielo
+uno simile a un figlio d'uomo;
+giunse fino al vegliardo e fu presentato a lui.
+Gli furono dati potere, gloria e regno;
+tutti i popoli, nazioni e lingue lo servivano:
+il suo potere è un potere eterno,
+che non finirà mai,
+e il suo regno non sarà mai distrutto.
 
 ## Parola di Dio.
 
 --------------------------------------------------------------------------------
 
-# Salmo responsoriale {media https://www.youtube.com/watch?v=9Xfs87LpWvY}
+# Salmo responsoriale {media https://www.youtube.com/watch?v=Q7RT8jDMbI8}
 
-## Sal~15
+## Sal~92
 
 {img auto 6em salmo.svg}
 
-/ {risposta} Proteggimi, o Dio: in te mi rifugio.
+/ {risposta} Il Signore regna, si riveste di splendore.
 
-Il Signore è mia parte di eredità e mio calice:
-nelle tue mani è la mia vita.
-Io pongo sempre davanti a me il Signore,
-sta alla mia destra, non potrò vacillare.
+Il Signore regna, si riveste di maestà:
+si riveste il Signore, si cinge di forza.
+ 
+/ {risposta} Il Signore regna, si riveste di splendore.
 
-/ {risposta} Proteggimi, o Dio: in te mi rifugio.
+È stabile il mondo, non potrà vacillare.
+Stabile è il tuo trono da sempre,
+dall'eternità tu sei.
+ 
+/ {risposta} Il Signore regna, si riveste di splendore.
 
-Per questo gioisce il mio cuore
-ed esulta la mia anima;
-anche il mio corpo riposa al sicuro,
-perché non abbandonerai la mia vita negli inferi,
-né lascerai che il tuo fedele veda la fossa.
+Davvero degni di fede i tuoi insegnamenti!
+La santità si addice alla tua casa
+per la durata dei giorni, Signore.
 
-/ {risposta} Proteggimi, o Dio: in te mi rifugio.
-
-Mi indicherai il sentiero della vita,
-gioia piena alla tua presenza,
-dolcezza senza fine alla tua destra. 
-
-/ {risposta} Proteggimi, o Dio: in te mi rifugio.
+/ {risposta} Il Signore regna, si riveste di splendore.
 
 --------------------------------------------------------------------------------
 
 # Seconda lettura
 
-/ Cristo con un’unica offerta ha reso perfetti per sempre quelli che vengono santificati.
+/ Il sovrano dei re della terra ha fatto di noi un regno, sacerdoti per il suo Dio.
+## Dal libro dell'Apocalisse di san Giovanni apostolo (Ap~1,~5-8)
+ 
+Gesù Cristo è il testimone fedele, il primogenito dei morti e il sovrano dei re della terra.
 
-## Dalla lettera agli Ebrei (Eb~10,~11-14.18)
+A Colui che ci ama e ci ha liberati dai nostri peccati con il suo sangue, che ha fatto di noi un regno, sacerdoti per il suo Dio e Padre, a lui la gloria e la potenza nei secoli dei secoli. Amen.
 
-Ogni sacerdote si presenta giorno per giorno a celebrare il culto e a offrire molte volte gli stessi sacrifici, che non possono mai eliminare i peccati.
-Cristo, invece, avendo offerto un solo sacrificio per i peccati, si è assiso per sempre alla destra di Dio, aspettando ormai che i suoi nemici vengano posti a sgabello dei suoi piedi. Infatti, con un’unica offerta egli ha reso perfetti per sempre quelli che vengono santificati.
-Ora, dove c’è il perdono di queste cose, non c’è più offerta per il peccato.
+Ecco, viene con le nubi e ogni occhio lo vedrà,
+anche quelli che lo trafissero,
+e per lui tutte le tribù della terra
+si batteranno il petto.
+Sì, Amen!
+Dice il Signore Dio: Io sono l'Alfa e l'Omèga, Colui che è, che era e che viene, l'Onnipotente!
 
 ## Parola di Dio.
 
@@ -109,9 +117,8 @@ Ora, dove c’è il perdono di queste cose, non c’è più offerta per il pecca
 . Acclamazione al Vangelo
 {alleluia verbum panis}
 
-Vegliate in ogni momento pregando,
-perché abbiate la forza di comparire
-davanti al Figlio dell'uomo. (Lc 21,36)
+Benedetto colui che viene nel nome del Signore!
+Benedetto il Regno che viene, del nostro padre Davide! (Mc~11,~9.10)
 
 ## Alleluia, alleluia
 ## Alleluia, alleluia. (2 volte) 
@@ -120,16 +127,15 @@ davanti al Figlio dell'uomo. (Lc 21,36)
 
 # Vangelo
 
-/ Il Figlio dell'uomo radunerà i suoi eletti dai quattro venti.
+/ Tu lo dici: io sono re.
 
-## {croce} Dal Vangelo secondo Marco (Mc~13,~24-32)
+## {croce} Dal Vangelo secondo Giovanni (Gv~18,~33b-37)
+ 
+In quel tempo, Pilato disse a Gesù: «Sei tu il re dei Giudei?». Gesù rispose: «Dici questo da te, oppure altri ti hanno parlato di me?». Pilato disse: «Sono forse io Giudeo? La tua gente e i capi dei sacerdoti ti hanno consegnato a me. Che cosa hai fatto?».
 
-In quel tempo, Gesù disse ai suoi discepoli:
-«In quei giorni, dopo quella tribolazione, il sole si oscurerà, la luna non darà più la sua luce, le stelle cadranno dal cielo e le potenze che sono nei cieli saranno sconvolte.
-Allora vedranno il Figlio dell’uomo venire sulle nubi con grande potenza e gloria. Egli manderà gli angeli e radunerà i suoi eletti dai quattro venti, dall’estremità della terra fino all’estremità del cielo.
-Dalla pianta di fico imparate la parabola: quando ormai il suo ramo diventa tenero e spuntano le foglie, sapete che l’estate è vicina. Così anche voi: quando vedrete accadere queste cose, sappiate che egli è vicino, è alle porte.
-In verità io vi dico: non passerà questa generazione prima che tutto questo avvenga. Il cielo e la terra passeranno, ma le mie parole non passeranno.
-Quanto però a quel giorno o a quell’ora, nessuno lo sa, né gli angeli nel cielo né il Figlio, eccetto il Padre».
+Rispose Gesù: «Il mio regno non è di questo mondo; se il mio regno fosse di questo mondo, i miei servitori avrebbero combattuto perché non fossi consegnato ai Giudei; ma il mio regno non è di quaggiù».
+
+Allora Pilato gli disse: «Dunque tu sei re?». Rispose Gesù: «Tu lo dici: io sono re. Per questo io sono nato e per questo sono venuto nel mondo: per dare testimonianza alla verità. Chiunque è dalla verità, ascolta la mia voce».
 
 ## Parola del Signore.
 
@@ -137,20 +143,20 @@ Quanto però a quel giorno o a quell’ora, nessuno lo sa, né gli angeli nel ci
 
 # Preghiera dei fedeli
 
-## {risposta} Dio di misericordia, ascoltaci.
+## {risposta} Signore, nostro Re, ascoltaci.
 
-1. Perché la speranza cristiana ci porti a confidare non nelle cose terrene e nel frutto delle nostre azioni ma nel Signore della Vita, del Tempo e dell'Eternità.
-Noi ti preghiamo.
-## {risposta} Dio di misericordia, ascoltaci.
+1. Veniamo a te, Signore Gesù, per domandarti di vincere le nostre superbie e le nostre pretese, riconoscendoti come Re e Signore della vita. Noi ti preghiamo.
+## {risposta} Signore, nostro Re, ascoltaci.
 
-2. Perché la Chiesa e i suoi ministri ci accompagnino a vivere le vicende terrene con cuore aperto e generoso, come chi attende solo da Dio il giusto compimento della propria vita. Noi ti preghiamo. 
-## {risposta} Dio di misericordia, ascoltaci.
+2. Veniamo a te, Signore Gesù, affidandoti coloro che hai posto al servizio del popolo cristiano. Nella fatica del ministero, avvinci il loro cuore affinché diventino tuoi gioiosi testimoni. Noi ti preghiamo. 
+## {risposta} Signore, nostro Re, ascoltaci.
 
-3. Perché nelle leggi degli Stati, nelle imprese di lavoro, nelle trattative economiche, non prevalgano l'egoismo e lo sfruttamento, ma si rispetti o i diritti dei popoli e i bisogni delle persone e delle famiglie. Noi ti preghiamo.  
-## {risposta} Dio di misericordia, ascoltaci.
+3. Veniamo a te, Signore Gesù, per affidarti quanti sono privati della libertà: i carcerati, i prigionieri, le persone prese in ostaggio; e tutti coloro che vengono ostacolati nella professione della loro fede. Noi ti preghiamo.  
+## {risposta} Signore, nostro Re, ascoltaci.
 
-4. Perché nelle vicende della vita prevalga, in ogni di noi, la fiducia nella Provvidenza e con essa la serenità e la condivisione con i fratelli. Noi ti preghiamo. 
-## {risposta} Dio di misericordia, ascoltaci.
+4. Veniamo a te, Signore Gesù, per ringraziarti del cammino compiuto in questo anno liturgico. Donaci di vivere la condivisione del tempo, delle opere, dei beni della terra. Noi ti preghiamo. 
+## {risposta} Signore, nostro Re, ascoltaci.
+
 --------------------------------------------------------------------------------
 
 
@@ -169,7 +175,7 @@ Noi ti preghiamo.
 --------------------------------------------------------------------------------
 
 . Comunione
-{perché tu sei con me}
+{re di gloria}
 
 --------------------------------------------------------------------------------
 

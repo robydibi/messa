@@ -476,4 +476,65 @@ con te fra noi il deserto fiorirà.
 
 #{musica} Alleluia (passeranno i cieli) {media https://www.youtube.com/watch?v=Gm7yWtC3AB0}
 
+
+
+#{musica} Re di gloria {media https://www.youtube.com/watch?v=XZZF9C8pZpc}
+
+Ho incontrato te Gesù e ogni cosa in me è cambiata
+tutta la mia vita ora ti appartiene,
+tutto il mio passato io lo affido a Te 
+Gesù, Re di gloria mio Signor. 
+
+Tutto in te riposa, la mia mente il mio cuore
+trovo pace in Te Signor, tu mi dai la gioia,
+voglio stare insieme a te, non lasciarti mai
+Gesù, Re di gloria mio Signor.
+
+>Dal tuo amore chi mi separerà 
+>sulla croce hai dato la vita per me
+>Una corona di gloria mi darai
+>quando un giorno ti vedrò.
+
+Tutto in te riposa, la mia mente il mio cuore
+trovo pace in Te Signor, tu mi dai la gioia,
+voglio stare insieme a te, non lasciarti mai
+Gesù, Re di gloria mio Signor.
+
+>Dal tuo amore chi mi separerà 
+>sulla croce hai dato la vita per me
+>Una corona di gloria mi darai
+>quando un giorno ti vedrò.
+
+>Dal tuo amore chi mi separerà 
+>sulla croce hai dato la vita per me
+>Una corona di gloria mi darai
+>Io ti aspetto mio Signor! 
+>Io ti aspetto mio Signor! 
+>Io ti aspetto mio Re!
+
+#{musica} Chiamati per nome {media https://www.youtube.com/watch?v=EUG6KnGxpcc}
+>Veniamo da te,
+>chiamati per nome.
+>Che festa, Signore,  tu cammini con noi.
+>Ci parli di te,
+>per noi spezzi il pane,
+>ti riconosciamo, il cuore arde: sei Tu!
+>E noi tuo popolo siamo qui.
+
+Siamo come terra ed argilla
+e la tua Parola ci plasmerà,
+brace pronta per la scintilla
+il tuo Spirito soffierà, c’infiammerà.
+>*
+
+Siamo come semi nel solco,
+come vino che il suo frutto darà,
+grano del Signore risorto,
+la tua messe che fiorirà d’eternità.
+>*
+(per finire) E noi tuo popolo
+siamo qui, siamo qui!
+
+
+
 `
