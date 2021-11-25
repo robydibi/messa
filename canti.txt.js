@@ -1,45 +1,23 @@
 let canti = `
 % https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20211114
 
-. 21 novembre 2021
-# Nostro Signore Gesù Cristo Re dell'universo
-. Anno B
+. 28 novembre 2021
+# Prima domenica di Avvento
+. Anno C
+
+/Il linguaggio apocalittico, che sembra spaventarci, non dovrebbe portarci alla paura ma alla sensazione di liberazione. Come dice il Vangelo, è tempo di avere coraggio, perché la nostra liberazione si sta avvicinando. Ecco perché dobbiamo alzare la testa verso Dio, da cui viene tutto ciò che siamo e abbiamo. Non guardare in basso, ma in alto. Non dobbiamo lasciarci influenzare da così tante situazioni di distruzione e morte, ma da quelle di vita e di speranza, sentendoci come una comunità che naviga sulla barca della Chiesa. Siamo nel tempo dell'Avvento, nel quale si attiva la nostra speranza. Approfittiamo quindi di queste quattro settimane per accogliere Gesù, che viene e che ci libererà e ci abbraccerà con il suo Amore.
+
+/L'Angelo ci porta anche una sveglia e ci invita ad essere vigili, attenti, svegli. Ci invita a non addormentarci, a non vivere nell'inerzia ... Andiamo!
 
 {img auto 20em uno.png}
 
-/ Per festeggiare Cristo, re dell’universo, la Chiesa non ci propone il \
-racconto di una teofania splendente. Ma, al contrario, questa scena straziante \
-della passione secondo san Giovanni, in cui Gesù umiliato e in catene compare \
-davanti a Pilato, onnipotente rappresentante di un impero onnipotente. 
-
-/ Scena straziante in cui l’accusato senza avvocato è a due giorni dal \
-risuscitare nella gloria, e in cui il potente del momento è a due passi dallo \
-sprofondare nell’oblio. 
-
-/ Chi dei due è re? Quale dei due può rivendicare un potere reale (Gv 19,11)? \
-Ancora una volta, secondo il modo di vedere umano, non si poteva che sbagliarsi. \
-Ma poco importa. I giochi sono fatti. Ciò che conta è il dialogo di questi due \
-uomini. Pilato non capisce niente, né dei Giudei, né di Gesù (Gv 18,35), né del \
-senso profondo del dibattito (Gv 18,38). 
-
-/Quanto a Gesù, una sola cosa conta, ed è la verità (Gv 18,37). \
-Durante tutta la sua vita ha servito la verità, ha reso testimonianza alla \
-verità. La verità sul Padre, la verità sulla vita eterna, la verità sulla \
-lotta che l’uomo deve condurre in questo mondo, la verità sulla vita e sulla \
-morte. Tutti campi essenziali, in cui la menzogna e l’errore sono mortali. 
-
-/ Ecco cos’è essere re dell’universo: entrare nella verità e renderle \
-testimonianza (Gv 8,44-45). Tutti i discepoli di Gesù sono chiamati a \
-condividere la sua regalità, se “ascoltano la sua voce” (Gv 18,37). 
-
-/ È veramente re colui che la verità ha reso libero (Gv 8,32).
 
 {indice}
 
 --------------------------------------------------------------------------------
 
 . Ingresso
-{chiamati per nome}
+{maranatha vieni signor}
 
 --------------------------------------------------------------------------------
 
@@ -48,67 +26,56 @@ condividere la sua regalità, se “ascoltano la sua voce” (Gv 18,37).
 --------------------------------------------------------------------------------
 
 # Prima lettura
+/Farò germogliare per Davide un germoglio giusto.
 
-/ Il suo potere è un potere eterno.
-
-## Dal libro del profeta Daniele (Dn~7,~13-14)
+## Dal libro del profeta Geremìa (Ger~33,14-16)
  
-Guardando nelle visioni notturne,
-ecco venire con le nubi del cielo
-uno simile a un figlio d'uomo;
-giunse fino al vegliardo e fu presentato a lui.
-Gli furono dati potere, gloria e regno;
-tutti i popoli, nazioni e lingue lo servivano:
-il suo potere è un potere eterno,
-che non finirà mai,
-e il suo regno non sarà mai distrutto.
+Ecco, verranno giorni -- oràcolo del Signore -- nei quali io realizzerò le promesse di bene che ho fatto alla casa d'Israele e alla casa di Giuda.
+
+In quei giorni e in quel tempo farò germogliare per Davide un germoglio giusto, che eserciterà il giudizio e la giustizia sulla terra.
+
+In quei giorni Giuda sarà salvato e Gerusalemme vivrà tranquilla, e sarà chiamata: Signore-nostra-giustizia.
 
 ## Parola di Dio.
 
 --------------------------------------------------------------------------------
 
 # Salmo responsoriale {media https://www.youtube.com/watch?v=Q7RT8jDMbI8}
-
-## Sal~92
-
+##Dal Salmo 24 
 {img auto 6em salmo.svg}
 
-/ {risposta} Il Signore regna, si riveste di splendore.
+/{risposta} A te, Signore, innalzo l'anima mia, in te confido.
 
-Il Signore regna, si riveste di maestà:
-si riveste il Signore, si cinge di forza.
+Fammi conoscere, Signore, le tue vie,
+insegnami i tuoi sentieri.
+Guidami nella tua fedeltà e istruiscimi,
+perché sei tu il Dio della mia salvezza.
  
-/ {risposta} Il Signore regna, si riveste di splendore.
+/{risposta} A te, Signore, innalzo l'anima mia, in te confido.
 
-È stabile il mondo, non potrà vacillare.
-Stabile è il tuo trono da sempre,
-dall'eternità tu sei.
+Buono e retto è il Signore,
+indica ai peccatori la via giusta;
+guida i poveri secondo giustizia,
+insegna ai poveri la sua via.
+
+/{risposta} A te, Signore, innalzo l'anima mia, in te confido.
  
-/ {risposta} Il Signore regna, si riveste di splendore.
+Tutti i sentieri del Signore sono amore e fedeltà
+per chi custodisce la sua alleanza e i suoi precetti.
+Il Signore si confida con chi lo teme:
+gli fa conoscere la sua alleanza.
 
-Davvero degni di fede i tuoi insegnamenti!
-La santità si addice alla tua casa
-per la durata dei giorni, Signore.
-
-/ {risposta} Il Signore regna, si riveste di splendore.
+/{risposta} A te, Signore, innalzo l'anima mia, in te confido.
 
 --------------------------------------------------------------------------------
 
 # Seconda lettura
-
-/ Il sovrano dei re della terra ha fatto di noi un regno, sacerdoti per il suo Dio.
-## Dal libro dell'Apocalisse di san Giovanni apostolo (Ap~1,~5-8)
+/Il Signore renda saldi i vostri cuori al momento della venuta di Cristo.
+##Dalla prima lettera di san Paolo apostolo ai Tessalonicési (1Ts~3,12-4,2)
  
-Gesù Cristo è il testimone fedele, il primogenito dei morti e il sovrano dei re della terra.
+Fratelli, il Signore vi faccia crescere e sovrabbondare nell'amore fra voi e verso tutti, come sovrabbonda il nostro per voi, per rendere saldi i vostri cuori e irreprensibili nella santità, davanti a Dio e Padre nostro, alla venuta del Signore nostro Gesù con tutti i suoi santi.
 
-A Colui che ci ama e ci ha liberati dai nostri peccati con il suo sangue, che ha fatto di noi un regno, sacerdoti per il suo Dio e Padre, a lui la gloria e la potenza nei secoli dei secoli. Amen.
-
-Ecco, viene con le nubi e ogni occhio lo vedrà,
-anche quelli che lo trafissero,
-e per lui tutte le tribù della terra
-si batteranno il petto.
-Sì, Amen!
-Dice il Signore Dio: Io sono l'Alfa e l'Omèga, Colui che è, che era e che viene, l'Onnipotente!
+Per il resto, fratelli, vi preghiamo e supplichiamo nel Signore Gesù affinché, come avete imparato da noi il modo di comportarvi e di piacere a Dio -- e così già vi comportate, possiate progredire ancora di più. Voi conoscete quali regole di vita vi abbiamo dato da parte del Signore Gesù.
 
 ## Parola di Dio.
 
@@ -117,25 +84,27 @@ Dice il Signore Dio: Io sono l'Alfa e l'Omèga, Colui che è, che era e che vien
 . Acclamazione al Vangelo
 {alleluia verbum panis}
 
-Benedetto colui che viene nel nome del Signore!
-Benedetto il Regno che viene, del nostro padre Davide! (Mc~11,~9.10)
+Mostraci, Signore, la tua misericordia
+e donaci la tua salvezza. (Sal 84,8)
 
 ## Alleluia, alleluia
 ## Alleluia, alleluia. (2 volte) 
 
 --------------------------------------------------------------------------------
-
 # Vangelo
+/La vostra liberazione è vicina.
 
-/ Tu lo dici: io sono re.
-
-## {croce} Dal Vangelo secondo Giovanni (Gv~18,~33b-37)
+## {croce} Dal Vangelo secondo Luca (Lc~21,25-28.34-36)
  
-In quel tempo, Pilato disse a Gesù: «Sei tu il re dei Giudei?». Gesù rispose: «Dici questo da te, oppure altri ti hanno parlato di me?». Pilato disse: «Sono forse io Giudeo? La tua gente e i capi dei sacerdoti ti hanno consegnato a me. Che cosa hai fatto?».
+In quel tempo, Gesù disse ai suoi discepoli:
 
-Rispose Gesù: «Il mio regno non è di questo mondo; se il mio regno fosse di questo mondo, i miei servitori avrebbero combattuto perché non fossi consegnato ai Giudei; ma il mio regno non è di quaggiù».
+«Vi saranno segni nel sole, nella luna e nelle stelle, e sulla terra angoscia di popoli in ansia per il fragore del mare e dei flutti, mentre gli uomini moriranno per la paura e per l'attesa di ciò che dovrà accadere sulla terra. Le potenze dei cieli infatti saranno sconvolte.
 
-Allora Pilato gli disse: «Dunque tu sei re?». Rispose Gesù: «Tu lo dici: io sono re. Per questo io sono nato e per questo sono venuto nel mondo: per dare testimonianza alla verità. Chiunque è dalla verità, ascolta la mia voce».
+Allora vedranno il Figlio dell'uomo venire su una nube con grande potenza e gloria.
+
+Quando cominceranno ad accadere queste cose, risollevatevi e alzate il capo, perché la vostra liberazione è vicina.
+
+State attenti a voi stessi, che i vostri cuori non si appesantiscano in dissipazioni, ubriachezze e affanni della vita e che quel giorno non vi piombi addosso all'improvviso; come un laccio infatti esso si abbatterà sopra tutti coloro che abitano sulla faccia di tutta la terra. Vegliate in ogni momento pregando, perché abbiate la forza di sfuggire a tutto ciò che sta per accadere, e di comparire davanti al Figlio dell'uomo».
 
 ## Parola del Signore.
 
@@ -143,25 +112,25 @@ Allora Pilato gli disse: «Dunque tu sei re?». Rispose Gesù: «Tu lo dici: io 
 
 # Preghiera dei fedeli
 
+## {risposta} Ascoltaci, o Signore.
+
+1. Dio della vita, che hai creato il cielo e la terra, e prepari per noi un mondo nuovo, volgi verso di te la nostra attesa e la nostra speranza, per sottrarci all'illusione delle false promesse. Noi ti preghiamo.
+## {risposta} Ascoltaci, o Signore.
+
+2. Dio del tempo e dell'eternità, guida il tuo popolo con la saggezza e l'intraprendenza dei nostri pastori, così che non restiamo chiusi nel nostro piccolo mondo, ma ci apriamo alla gioia della tua promessa. Noi ti preghiamo. 
+## {risposta} Ascoltaci, o Signore.
+
+3. Dio, principio di ogni bene, donaci di riconoscere il tuo continuo operare nel mondo, tu che rispondi all'attesa del cuore di ogni persona. Noi ti preghiamo.  
 ## {risposta} Signore, nostro Re, ascoltaci.
 
-1. Veniamo a te, Signore Gesù, per domandarti di vincere le nostre superbie e le nostre pretese, riconoscendoti come Re e Signore della vita. Noi ti preghiamo.
-## {risposta} Signore, nostro Re, ascoltaci.
-
-2. Veniamo a te, Signore Gesù, affidandoti coloro che hai posto al servizio del popolo cristiano. Nella fatica del ministero, avvinci il loro cuore affinché diventino tuoi gioiosi testimoni. Noi ti preghiamo. 
-## {risposta} Signore, nostro Re, ascoltaci.
-
-3. Veniamo a te, Signore Gesù, per affidarti quanti sono privati della libertà: i carcerati, i prigionieri, le persone prese in ostaggio; e tutti coloro che vengono ostacolati nella professione della loro fede. Noi ti preghiamo.  
-## {risposta} Signore, nostro Re, ascoltaci.
-
-4. Veniamo a te, Signore Gesù, per ringraziarti del cammino compiuto in questo anno liturgico. Donaci di vivere la condivisione del tempo, delle opere, dei beni della terra. Noi ti preghiamo. 
-## {risposta} Signore, nostro Re, ascoltaci.
+4. Dio, principio di amore e di unità, donaci di rendere più umano l'ambiente in cui lavoriamo e viviamo, attenti ai deboli e agli indifesi. Noi ti preghiamo. 
+## {risposta} Ascoltaci, o Signore.
 
 --------------------------------------------------------------------------------
 
 
 . Offertorio
-{benedici o signore} 
+{servo per amore} 
 
 --------------------------------------------------------------------------------
 
@@ -175,7 +144,7 @@ Allora Pilato gli disse: «Dunque tu sei re?». Rispose Gesù: «Tu lo dici: io 
 --------------------------------------------------------------------------------
 
 . Comunione
-{re di gloria}
+{come l'aurora verrai}
 
 --------------------------------------------------------------------------------
 
@@ -185,7 +154,7 @@ Allora Pilato gli disse: «Dunque tu sei re?». Rispose Gesù: «Tu lo dici: io 
 @--------------------------------------------------------------------------------
 
 . Canto finale
-{resta accanto a me}
+{giovane donna}
 
 --------------------------------------------------------------------------------
 

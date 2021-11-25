@@ -535,6 +535,109 @@ la tua messe che fiorirà d’eternità.
 (per finire) E noi tuo popolo
 siamo qui, siamo qui!
 
+#{musica} Maranatha Vieni Signor {media https://www.youtube.com/watch?v=Bz0cNACOs08}
+
+>Maranathà, vieni Signor!
+>Verso te, Gesù, le mani noi leviam.
+>Maranathà, vieni Signor!
+>Prendici con te e salvaci Signor.
+
+Guardo verso le montagne,
+donde mi verrà il soccorso,
+il soccorso vien da Dio,
+che ha creato il mondo intero.
+>*
+
+Sorgi con il tuo Amore,
+la Tua luce splenderà, 
+ogni ombra svanirà,
+la tua Gloria apparirà. 
+>*
+
+Mio Signor son peccatore,
+a Te apro il mio cuore,
+fa’ di me quello che vuoi
+e per sempre in Te vivrò. 
+>*
+
+#{musica} Servo per amore {media https://www.youtube.com/watch?v=iOyT29mwhqU}
+Una notte di sudore
+sulla barca in mezzo al mare
+e mentre il cielo s’imbianca già
+tu guardi le tue reti vuote.
+Ma la voce che ti chiama
+un altro mare ti mostrerà
+e sulle rive di ogni cuore
+le tue reti getterai.
+
+>Offri la vita tua
+>come Maria ai piedi della croce
+>e sarai servo di ogni uomo,
+>servo per amore,
+>sacerdote per l’umanità.
+
+Avanzavi nel silenzio
+fra le lacrime e speravi
+che il seme sparso davanti a te cadesse sulla buona terra.
+Ora il cuore tuo è in festa
+perché il grano biondeggia ormai,
+è maturato sotto il sole,
+puoi deporlo nei granai.
+>*
+
+#{musica} Come l'aurora verrai {media https://www.youtube.com/watch?v=n8z6fWGw9Zw}
+Come l'aurora verrai
+le tenebre in luce cambierai
+tu per noi, Signore.
+Come la pioggia cadrai
+sui nostri deserti scenderai
+scorrerà l'amore
+
+>Tutti i nostri sentieri percorrerai
+>tutti i figli dispersi raccoglierai,
+>chiamerai da ogni terra il tuo popolo
+>in eterno ti avremo con noi.
+
+Re di giustizia sarai,
+le spade in aratri forgerai:
+ci darai la pace.
+Lupo ed agnello vedrai
+insieme sui prati dove mai
+tornerà la notte.
+>*
+
+Dio di salvezza tu sei
+e come una stella sorgerai
+su di noi per sempre.
+E chi non vede, vedrà,
+chi ha chiusi gli orecchi sentirà,
+canterà di gioia.
+>*
+
+#{musica} Giovane donna {media https://www.youtube.com/watch?v=v325wim3Ibo}
+Giovane donna, attesa dell’umanità, 
+un desiderio d’amore e pura libertà. 
+Il Dio lontano è qui vicino a Te, 
+voce e silenzio, annuncio di verità.
+>Ave Maria, Ave Maria!
+
+Dio t’ha prescelta
+qual madre piena di bellezza, 
+ed il suo amore
+t’avvolgerà con la sua ombra. 
+Grembo di Dio, venuto sulla terra, 
+Tu sarai madre, di un uomo nuovo.
+>Ave Maria, Ave Maria!
+
+Ecco l’ancella
+che vive della sua Parola, 
+libero il cuore
+perché l’amore trovi casa. 
+Ora l’attesa è densa di preghiera 
+e l’uomo nuovo è qui in mezzo a noi.
+>Ave Maria, Ave Maria!
+
+
 
 
 `
