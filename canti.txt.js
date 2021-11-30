@@ -1,13 +1,15 @@
 let canti = `
 % https://www.chiesacattolica.it/liturgia-del-giorno/?data-liturgia=20211114
 
-. 28 novembre 2021
-# Prima domenica di Avvento
+. 5 dicembre 2021
+# Seconda domenica di Avvento
 . Anno C
 
-/Il linguaggio apocalittico, che sembra spaventarci, non dovrebbe portarci alla paura ma alla sensazione di liberazione. Come dice il Vangelo, è tempo di avere coraggio, perché la nostra liberazione si sta avvicinando. Ecco perché dobbiamo alzare la testa verso Dio, da cui viene tutto ciò che siamo e abbiamo. Non guardare in basso, ma in alto. Non dobbiamo lasciarci influenzare da così tante situazioni di distruzione e morte, ma da quelle di vita e di speranza, sentendoci come una comunità che naviga sulla barca della Chiesa. Siamo nel tempo dell'Avvento, nel quale si attiva la nostra speranza. Approfittiamo quindi di queste quattro settimane per accogliere Gesù, che viene e che ci libererà e ci abbraccerà con il suo Amore.
-
-/L'Angelo ci porta anche una sveglia e ci invita ad essere vigili, attenti, svegli. Ci invita a non addormentarci, a non vivere nell'inerzia ... Andiamo!
+/La seconda domenica di Avvento presenta la figura di Giovanni Battista come segno della venuta della salvezza di Dio. La storia vive qui il suo culmine: il momento più atteso e più desiderato, il momento dell’annuncio del regno di Dio che comincia: il Messia sta per arrivare.
+/Nella tradizione dei grandi profeti dell’Antico Testamento, la parola di Dio è rivolta a Giovanni nel deserto. Giovanni - figlio di Zaccaria - diventa così profeta e precursore del Messia.
+/Malgrado le paure e il terrore che ispira, il deserto è, nella memoria religiosa del popolo di Israele, il luogo di riunione, dove Dio ha parlato al cuore del suo popolo, il luogo dove Dio è stato più che mai il pastore del suo gregge.
+/Dal deserto Giovanni denuncia e ricorda l’identità religiosa più particolare del suo popolo: il Dio d’Israele è fedele al suo legame e mantiene le sue promesse di salvezza.
+Convoca di nuovo i suoi nel deserto, per annunciare loro l’arrivo del Messia. Ma Dio si aspetta sempre dall’uomo un minimo di collaborazione ed esigerà da lui un battesimo di conversione, la purificazione dei suoi peccati, e lo sforzo di superare gli ostacoli che gli impediscono di vedere l’alba della salvezza.
 
 {img auto 20em uno.png}
 
@@ -21,61 +23,97 @@ let canti = `
 
 --------------------------------------------------------------------------------
 
-{gloria Lecot}
+@{gloria Lecot}
 
 --------------------------------------------------------------------------------
 
 # Prima lettura
-/Farò germogliare per Davide un germoglio giusto.
+/ Dio mostrerà il tuo splendore a ogni creatura.
 
-## Dal libro del profeta Geremìa (Ger~33,14-16)
+## Dal libro del profeta Baruc (Bar~5,1-9)
  
-Ecco, verranno giorni -- oràcolo del Signore -- nei quali io realizzerò le promesse di bene che ho fatto alla casa d'Israele e alla casa di Giuda.
+Deponi, o Gerusalemme, la veste del lutto e dell'afflizione,
+rivèstiti dello splendore della gloria
+che ti viene da Dio per sempre.
 
-In quei giorni e in quel tempo farò germogliare per Davide un germoglio giusto, che eserciterà il giudizio e la giustizia sulla terra.
+Avvolgiti nel manto della giustizia di Dio,
+metti sul tuo capo il diadema di gloria dell'Eterno,
+perché Dio mostrerà il tuo splendore
+a ogni creatura sotto il cielo.
 
-In quei giorni Giuda sarà salvato e Gerusalemme vivrà tranquilla, e sarà chiamata: Signore-nostra-giustizia.
+Sarai chiamata da Dio per sempre:
+«Pace di giustizia» e «Gloria di pietà».
+
+Sorgi, o Gerusalemme, sta' in piedi sull'altura
+e guarda verso oriente; vedi i tuoi figli riuniti,
+dal tramonto del sole fino al suo sorgere,
+alla parola del Santo, esultanti per il ricordo di Dio.
+
+Si sono allontanati da te a piedi,
+incalzati dai nemici;
+ora Dio te li riconduce
+in trionfo come sopra un trono regale.
+
+Poiché Dio ha deciso di spianare
+ogni alta montagna e le rupi perenni,
+di colmare le valli livellando il terreno,
+perché Israele proceda sicuro sotto la gloria di Dio.
+
+Anche le selve e ogni albero odoroso
+hanno fatto ombra a Israele per comando di Dio.
+
+Perché Dio ricondurrà Israele con gioia
+alla luce della sua gloria,
+con la misericordia e la giustizia
+che vengono da lui.
 
 ## Parola di Dio.
 
 --------------------------------------------------------------------------------
 
-# Salmo responsoriale {media https://www.youtube.com/watch?v=Q7RT8jDMbI8}
-##Dal Salmo 24 
+# Salmo responsoriale {media https://www.youtube.com/watch?v=Jvp2zJUouOQ}
+##Dal Salmo 125 
 {img auto 6em salmo.svg}
 
-/{risposta} A te, Signore, innalzo l'anima mia, in te confido.
+/ {risposta} Grandi cose ha fatto il Signore per noi.
 
-Fammi conoscere, Signore, le tue vie,
-insegnami i tuoi sentieri.
-Guidami nella tua fedeltà e istruiscimi,
-perché sei tu il Dio della mia salvezza.
+Quando il Signore ristabilì la sorte di Sion,
+ci sembrava di sognare.
+Allora la nostra bocca si riempì di sorriso,
+la nostra lingua di gioia.
  
-/{risposta} A te, Signore, innalzo l'anima mia, in te confido.
+/ {risposta} Grandi cose ha fatto il Signore per noi.
 
-Buono e retto è il Signore,
-indica ai peccatori la via giusta;
-guida i poveri secondo giustizia,
-insegna ai poveri la sua via.
-
-/{risposta} A te, Signore, innalzo l'anima mia, in te confido.
+Allora si diceva tra le genti:
+«Il Signore ha fatto grandi cose per loro».
+Grandi cose ha fatto il Signore per noi:
+eravamo pieni di gioia.
  
-Tutti i sentieri del Signore sono amore e fedeltà
-per chi custodisce la sua alleanza e i suoi precetti.
-Il Signore si confida con chi lo teme:
-gli fa conoscere la sua alleanza.
+/ {risposta} Grandi cose ha fatto il Signore per noi.
 
-/{risposta} A te, Signore, innalzo l'anima mia, in te confido.
+Ristabilisci, Signore, la nostra sorte,
+come i torrenti del Negheb.
+Chi semina nelle lacrime
+mieterà nella gioia.
+ 
+/ {risposta} Grandi cose ha fatto il Signore per noi.
+
+Nell'andare, se ne va piangendo,
+portando la semente da gettare,
+ma nel tornare, viene con gioia,
+portando i suoi covoni.
+
+/ {risposta} Grandi cose ha fatto il Signore per noi.
 
 --------------------------------------------------------------------------------
 
-# Seconda lettura
-/Il Signore renda saldi i vostri cuori al momento della venuta di Cristo.
-##Dalla prima lettera di san Paolo apostolo ai Tessalonicési (1Ts~3,12-4,2)
+# Seconda Lettura
+/ Siate integri e irreprensibili per il giorno di Cristo.
+## Dalla lettera di san Paolo apostolo ai Filippési (Fil~1,4-6.8-11)
  
-Fratelli, il Signore vi faccia crescere e sovrabbondare nell'amore fra voi e verso tutti, come sovrabbonda il nostro per voi, per rendere saldi i vostri cuori e irreprensibili nella santità, davanti a Dio e Padre nostro, alla venuta del Signore nostro Gesù con tutti i suoi santi.
+Fratelli, sempre, quando prego per tutti voi, lo faccio con gioia a motivo della vostra cooperazione per il Vangelo, dal primo giorno fino al presente. Sono persuaso che colui il quale ha iniziato in voi quest'opera buona, la porterà a compimento fino al giorno di Cristo Gesù.
 
-Per il resto, fratelli, vi preghiamo e supplichiamo nel Signore Gesù affinché, come avete imparato da noi il modo di comportarvi e di piacere a Dio -- e così già vi comportate, possiate progredire ancora di più. Voi conoscete quali regole di vita vi abbiamo dato da parte del Signore Gesù.
+Infatti Dio mi è testimone del vivo desiderio che nutro per tutti voi nell'amore di Cristo Gesù. E perciò prego che la vostra carità cresca sempre più in conoscenza e in pieno discernimento, perché possiate distinguere ciò che è meglio ed essere integri e irreprensibili per il giorno di Cristo, ricolmi di quel frutto di giustizia che si ottiene per mezzo di Gesù Cristo, a gloria e lode di Dio.
 
 ## Parola di Dio.
 
@@ -84,27 +122,31 @@ Per il resto, fratelli, vi preghiamo e supplichiamo nel Signore Gesù affinché,
 . Acclamazione al Vangelo
 {alleluia verbum panis}
 
-Mostraci, Signore, la tua misericordia
-e donaci la tua salvezza. (Sal 84,8)
+Preparate la via del Signore,
+raddrizzate i suoi sentieri!
+Ogni uomo vedrà la salvezza di Dio! (Lc~3,4.6)
 
 ## Alleluia, alleluia
 ## Alleluia, alleluia. (2 volte) 
 
 --------------------------------------------------------------------------------
+
 # Vangelo
-/La vostra liberazione è vicina.
-
-## {croce} Dal Vangelo secondo Luca (Lc~21,25-28.34-36)
+/ Ogni uomo vedrà la salvezza di Dio!
+## {croce} Dal Vangelo secondo Luca (Lc~3,1-6)
  
-In quel tempo, Gesù disse ai suoi discepoli:
+Nell'anno quindicesimo dell'impero di Tiberio Cesare, mentre Ponzio Pilato era governatore della Giudea, Erode tetràrca della Galilea, e Filippo, suo fratello, tetràrca dell'Iturèa e della Traconìtide, e Lisània tetràrca dell'Abilène, sotto i sommi sacerdoti Anna e Càifa, la parola di Dio venne su Giovanni, figlio di Zaccarìa, nel deserto.
 
-«Vi saranno segni nel sole, nella luna e nelle stelle, e sulla terra angoscia di popoli in ansia per il fragore del mare e dei flutti, mentre gli uomini moriranno per la paura e per l'attesa di ciò che dovrà accadere sulla terra. Le potenze dei cieli infatti saranno sconvolte.
+Egli percorse tutta la regione del Giordano, predicando un battesimo di conversione per il perdono dei peccati, com'è scritto nel libro degli oracoli del profeta Isaìa:
 
-Allora vedranno il Figlio dell'uomo venire su una nube con grande potenza e gloria.
-
-Quando cominceranno ad accadere queste cose, risollevatevi e alzate il capo, perché la vostra liberazione è vicina.
-
-State attenti a voi stessi, che i vostri cuori non si appesantiscano in dissipazioni, ubriachezze e affanni della vita e che quel giorno non vi piombi addosso all'improvviso; come un laccio infatti esso si abbatterà sopra tutti coloro che abitano sulla faccia di tutta la terra. Vegliate in ogni momento pregando, perché abbiate la forza di sfuggire a tutto ciò che sta per accadere, e di comparire davanti al Figlio dell'uomo».
+«Voce di uno che grida nel deserto:
+Preparate la via del Signore,
+raddrizzate i suoi sentieri!
+Ogni burrone sarà riempito,
+ogni monte e ogni colle sarà abbassato;
+le vie tortuose diverranno diritte
+e quelle impervie, spianate.
+Ogni uomo vedrà la salvezza di Dio!».
 
 ## Parola del Signore.
 
@@ -112,22 +154,21 @@ State attenti a voi stessi, che i vostri cuori non si appesantiscano in dissipaz
 
 # Preghiera dei fedeli
 
-## {risposta} Ascoltaci, o Signore.
+## {risposta} Vieni, Signore Gesù.
 
-1. Dio della vita, che hai creato il cielo e la terra, e prepari per noi un mondo nuovo, volgi verso di te la nostra attesa e la nostra speranza, per sottrarci all'illusione delle false promesse. Noi ti preghiamo.
-## {risposta} Ascoltaci, o Signore.
+1. Per tutti i battezzati, perché da Giovanni Battista impariamo a spianare le vie del cuore per accogliere con semplicità e gratitudine il Signore presente nella nostra vita. Noi ti preghiamo.
+## {risposta} Vieni, Signore Gesù.
 
-2. Dio del tempo e dell'eternità, guida il tuo popolo con la saggezza e l'intraprendenza dei nostri pastori, così che non restiamo chiusi nel nostro piccolo mondo, ma ci apriamo alla gioia della tua promessa. Noi ti preghiamo. 
-## {risposta} Ascoltaci, o Signore.
+2. Per il Papa, il nostro Vescovo, i sacerdoti, i diaconi e quanti ci accompagnano nel cammino della fede, perché siano guide sicure per tutti noi e portino a compimento l'opera della fede che il Signore ha iniziato in noi. Noi ti preghiamo. 
+## {risposta} Vieni, Signore Gesù.
 
-3. Dio, principio di ogni bene, donaci di riconoscere il tuo continuo operare nel mondo, tu che rispondi all'attesa del cuore di ogni persona. Noi ti preghiamo.  
-## {risposta} Signore, nostro Re, ascoltaci.
+3. Per il nostro mondo, bisognoso di pace, benevolenza e fraternità, perché sempre più persone impegnino la propria vita per il bene di ogni uomo. Noi ti preghiamo.  
+## {risposta} Vieni, Signore Gesù.
 
-4. Dio, principio di amore e di unità, donaci di rendere più umano l'ambiente in cui lavoriamo e viviamo, attenti ai deboli e agli indifesi. Noi ti preghiamo. 
-## {risposta} Ascoltaci, o Signore.
+4. Per tutti gli uomini e donne, e in particolare i giovani, che cercano lavoro, e per coloro che l'hanno perduto, perché ogni persona possa vivere con dignità la propria condizione di vita. Noi ti preghiamo. 
+## {risposta} Vieni, Signore Gesù.
 
 --------------------------------------------------------------------------------
-
 
 . Offertorio
 {servo per amore} 
